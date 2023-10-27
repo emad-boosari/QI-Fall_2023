@@ -16,7 +16,11 @@ Google Colab Tutorial: [Check out the Tutorial]([https://tutorial-link-here](htt
 
 [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/)
 
-IBM Quantum Lab Tutorial: [Explore the Tutorial](https://www.youtube.com/watch?v=pwwuF-DaPk0)
+IBM Quantum Lab Tutorial: 
+[Link 1](https://www.youtube.com/watch?v=pwwuF-DaPk0)
+
+[Link 2](https://learn.qiskit.org/course/ch-states/single-qubit-gates)
+
 
 Happy coding! Your quantum journey awaits!
 
