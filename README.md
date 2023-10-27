@@ -10,13 +10,13 @@ If you don't have Python installed on your laptop, no worries. You can easily ge
 
 [Google Colab](https://colab.research.google.com/)
 
-Google Colab Tutorial: [Check out the Tutorial](https://tutorial-link-here)
+Google Colab Tutorial: [Check out the Tutorial]([https://tutorial-link-here](https://www.youtube.com/watch?v=RLYoEyIHL6A))
 
 ### IBM Quantum Lab:
 
 [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/)
 
-IBM Quantum Lab Tutorial: [Explore the Tutorial](https://tutorial-link-here)
+IBM Quantum Lab Tutorial: [Explore the Tutorial](https://www.youtube.com/watch?v=pwwuF-DaPk0)
 
 Happy coding! Your quantum journey awaits!
 
