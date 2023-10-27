@@ -10,7 +10,7 @@ If you don't have Python installed on your laptop, no worries. You can easily ge
 
 [Google Colab](https://colab.research.google.com/)
 
-Google Colab Tutorial: [Check out the Tutorial]([https://tutorial-link-here](https://www.youtube.com/watch?v=RLYoEyIHL6A))
+Google Colab Tutorial: [Check out the Tutorial](https://www.youtube.com/watch?v=RLYoEyIHL6A)
 
 ### IBM Quantum Lab:
 
